@@ -1,0 +1,26 @@
+Projectiles: {
+	ChargedBowProjectile.DisplayName: Charged Bow Projectile
+	WispF.DisplayName: Wisp F
+}
+
+Items: {
+	FEn: {
+		DisplayName: F En
+		Tooltip: ""
+	}
+
+	FireM: {
+		DisplayName: Fire Rune
+		Tooltip: Allows the recollection of Fire Energy
+	}
+
+	SoulLant: {
+		DisplayName: Fiery Lantern
+		Tooltip:
+			'''
+			Calls upon fire wisps
+			Fire Wisps will help in your actions
+			Requires Fire Energy to call
+			'''
+	}
+}

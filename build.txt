@@ -1,0 +1,3 @@
+displayName = Charge Bow
+author = Kire
+version = 0.1
