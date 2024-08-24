@@ -8,9 +8,6 @@ namespace ChargeBow
 {
     public class GlobalI : GlobalItem
     {
-        public override bool CanUseItem(Item item, Player player)
-        {
-            return base.CanUseItem(item, player);
-        }
+    
     }
 }
