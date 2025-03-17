@@ -6,18 +6,9 @@
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AdditionalFiles Remove="Items\SoulLan.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Remove="Birdthinghate\BirdStealyourZenithandYouPaySixtyGoldForit.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Remove="Items\SoulLan.png" />
     <None Remove="WispF.png" />
   </ItemGroup>
   <ItemGroup>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Birdthinghate\" />
+    <Folder Include="Localization\" />
   </ItemGroup>
 </Project>
